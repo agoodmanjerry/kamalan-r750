@@ -122,7 +122,7 @@ Please change "cchou" to your user name and "YOUR_SSH_KEY" to the name of the ss
 On `kamalan-R750`, you can set the shell to `/bin/bash` by
 
 ```bash
-cchou@kamalan-R750$ chsh -s /bin/bash
+cchou@kamalan-R750:~$ chsh -s /bin/bash
 ```
 
 ---
